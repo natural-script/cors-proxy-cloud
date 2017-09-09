@@ -1,1 +1,1 @@
-# cors-heroku
+# cors-proxy-heroku

@@ -1,22 +1,17 @@
 {
-  "name": "JsteManager",
+  "name": "JsteCORSProxy",
   "version": "1.0.0",
-  "description": "The official Jste Manager",
+  "description": "The official Jste CORS Proxy",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": [
-    "express",
-    "http-static-gzip-regexp",
-    "cors",
-    "remote-file-size",
-    "express-device",
-    "body-parser"
+    "cors-anywhere"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/project-jste/manager-heroku"
+    "url": "https://github.com/project-jste/cors-proxy-heroku"
   },
   "keywords": [
     "node",
