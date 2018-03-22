@@ -1,6 +1,6 @@
 # Jste CORS Proxy
 
-Jste CORS Proxy is hosted on Heroku and it's used in connecting to everything requires CORS like most of images in order to baypass the CORS warning in the browser.
+Jste CORS Proxy can be hosted on either Heroku or Microsoft Azure and it's used in connecting to everything requires CORS like most of images in order to baypass the CORS warning in the browser.
 
 ## Official Blog On Medium:
 
